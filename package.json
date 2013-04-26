@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "*",
+	"socket.io": "*",
+  "grunt": "*",
+  "grunt-express": "*"
+  }
+}
