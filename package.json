@@ -1,8 +1,14 @@
 {
+  "name": "express-grunt",
+  "version": "0.0.1",
   "dependencies": {
     "express": "*",
-	"socket.io": "*",
-  "grunt": "*",
-  "grunt-express": "*"
+    "swig": "*",
+    "consolidate": "*",
+    "socket.io": "*",
+    "grunt": "*",
+    "grunt-express": "*",
+    "neon": "*",
+    "optimist": "~0.4.0"
   }
 }

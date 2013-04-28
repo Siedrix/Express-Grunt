@@ -12,8 +12,4 @@ module.exports = function(grunt) {
 			}
 		}
 	});
-
-	grunt.loadNpmTasks('grunt-express');
-	grunt.registerTask('default', ['express', 'express-keepalive']);
-
 };
